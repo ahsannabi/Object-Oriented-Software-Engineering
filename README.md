@@ -3,6 +3,19 @@ University of Lahore Lecturer Site for Students
 
 All students of Object-Oriented Software Engineering please join this site and use it for submitting assignments, downloading lectures and course outline.
 
+#Assignment 1 Results
+Section S, Group 1: Hamza Farrukh, Ansab Majeed, Tanseer Javed, M. Sanan, Usama Ayub
+10/10
+
+Section S, Group 6: M Damil, Haris Akmal, Muiez Arif, Taimoor Mushtaq, Ali Riaz
+10/10
+
+Section S, Group 3: Nida Shahzadi, Abdullah Zafar, Hamza Tariq, M.Aziz Ullah, M.Abu Bakar
+9/10
+
+Section T, Group 4: HUSNAIN ZAFAR, HARIS WASEEM, UMAR SHAHZAD
+1/10 for copying Section S Group 3 Assignment
+Please note: there is no second chance for plagiarism
 
 #Assignment-submission instructions
 1. In order to submit your assignment file, click on "Upload files", drag and drop your assignment, add a short description of the assignment file and press Commit.
