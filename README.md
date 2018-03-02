@@ -7,11 +7,21 @@ All students of Object-Oriented Software Engineering please join this site and u
 Section S, Group 1: Hamza Farrukh, Ansab Majeed, Tanseer Javed, M. Sanan, Usama Ayub
 10/10
 
+Section S, Group 3: Nida Shahzadi, Abdullah Zafar, Hamza Tariq, M.Aziz Ullah, M.Abu Bakar
+9/10
+
+Section S, Group 5: Hafiz Abdul Majid Waseer, Muhammad Saqib Javaid, Asad Asghar, Muhammad Uzair, Muhammad Haseeb, Rana M. Haseeb-Ullah
+10/10
+
 Section S, Group 6: M Damil, Haris Akmal, Muiez Arif, Taimoor Mushtaq, Ali Riaz
 10/10
 
-Section S, Group 3: Nida Shahzadi, Abdullah Zafar, Hamza Tariq, M.Aziz Ullah, M.Abu Bakar
-9/10
+Section S, Group 7: Syeda Sibrah Batool, Hadayat Ullah Hammad, Areeba Arshad, Nida Khalid, Sara Tahseen
+10/10
+
+Section S, Group 8: Muhammad Saleh Adnan, Junaid Iqbal, Tooba Shafique, Hamna Yaqoob, Saim Ahmed
+10/10
+
 
 Section T, Group 4: HUSNAIN ZAFAR, HARIS WASEEM, UMAR SHAHZAD
 1/10 for copying Section S Group 3 Assignment
