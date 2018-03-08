@@ -11,6 +11,9 @@ Section S, Group 1: Hamza Farrukh, Ansab Majeed, Tanseer Javed, M. Sanan, Usama 
 Section S, Group 3: Nida Shahzadi, Abdullah Zafar, Hamza Tariq, M.Aziz Ullah, M.Abu Bakar
 9/10 (be brief and complete in description, with helpful headings)
 
+Section S, Group 4: Hassam Anwar,	Atiqa Noor, Shahroze Ahmad, Iqra Haneef, Iqra Amjad
+10/10
+			 
 Section S, Group 5: Hafiz Abdul Majid Waseer, Muhammad Saqib Javaid, Asad Asghar, Muhammad Uzair, Muhammad Haseeb, Rana M. Haseeb-Ullah
 10/10
 
@@ -24,7 +27,8 @@ Section S, Group 8: Muhammad Saleh Adnan, Junaid Iqbal, Tooba Shafique, Hamna Ya
 10/10
 
 Section T, Group 1: Ali Ismail, Fahad Hussain, Ali Raza, Hamza Ahmed, Daniyal Ashraf, Ammad Fareed
-5/10 (Didnt follow bulleted style. Used generic terms. Didnt mention constraints term. refer to Group 2 Sec T)
+5+2 = 7/10 (Didnt follow bulleted style. Used generic terms. Didnt mention constraints term. refer to Group 2 Sec T)
++2 bonus for following github instructions.
 
 Section T, Group 2: Shah Rukh Fazli, Umer Zeeshan, Usama Ashfaq, Amir Ramzan
 9/10 (You can elaborate one word terms more, like Group 1, Sec S)
