@@ -1,7 +1,7 @@
 # Object-Oriented-Software-Engineering
 University of Lahore Lecturer Site for Students
 
-<b>Quiz 2 Syllabus: Java Code PDF files in this repository<b>
+<b>Quiz 2 Syllabus: Java Code PDF files in this repository</b>
 
 All students of Object-Oriented Software Engineering please join this site and use it for submitting assignments, downloading lectures and course outline.
 
