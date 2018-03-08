@@ -8,6 +8,9 @@ All students of Object-Oriented Software Engineering please join this site and u
 Section S, Group 1: Hamza Farrukh, Ansab Majeed, Tanseer Javed, M. Sanan, Usama Ayub
 10/10
 
+Section S, Group 2: Syed Hur Naqvi, Muhammad Ali Raza, Muhammad Tahir Asghar, Ahmad Ali, Adnan Yousaf
+9/10 (Goals can be expanded from generic single words to a phrase for each goal, specific to the client.)
+
 Section S, Group 3: Nida Shahzadi, Abdullah Zafar, Hamza Tariq, M.Aziz Ullah, M.Abu Bakar
 9/10 (be brief and complete in description, with helpful headings)
 
