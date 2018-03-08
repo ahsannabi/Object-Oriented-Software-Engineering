@@ -1,7 +1,7 @@
 # Object-Oriented-Software-Engineering
 University of Lahore Lecturer Site for Students
 
-Quiz 2 Syllabus: Java Code PDF files in this repository
+<b>Quiz 2 Syllabus: Java Code PDF files in this repository<b>
 
 All students of Object-Oriented Software Engineering please join this site and use it for submitting assignments, downloading lectures and course outline.
 
@@ -38,6 +38,9 @@ Section T, Group 1: Ali Ismail, Fahad Hussain, Ali Raza, Hamza Ahmed, Daniyal As
 Section T, Group 2: Shah Rukh Fazli, Umer Zeeshan, Usama Ashfaq, Amir Ramzan
 9+1=10/10 (You can elaborate one word terms more, like Group 1, Sec S)
 +1 bonus for following github instructions.
+
+Section T, Group 3: Jazib Ali, Asadullah Sial, Zain-ul-Abedin, Muhammad, Atif Ali
+8/10 Constriants too strict. Especially point 4. Should enable extendibility.
 
 Section T, Group 4: HUSNAIN ZAFAR, HARIS WASEEM, UMAR SHAHZAD
 1/10 for copying Section S Group 3 Assignment
