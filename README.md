@@ -1,9 +1,20 @@
 # Object-Oriented-Software-Engineering
 University of Lahore Lecturer Site for Students
 
-<b>Mid Syllabus: Focus on Ch 4 & 5 illustrations from textbook, then slides and last back of the chapter exercises.</b>
+<b>Submit Assignment 2 (SRS) and 3 (Design) first draft tonight 12:00 AM 12th April. It should include: <br>
+	1. Purpose of the document
+	2. Product description
+	3. Functional Requirements
+	4. Non functional requirements
+	5. Use Case Diagram
+	6. Main Use Case Scenarios
+	7. Sequence Diagram with description
+	8. Class/Object Diagram displaying data, methods, and relationships.<br />
+</b>
 
-<b>Quiz 2 Syllabus: Java Code PDF files in this repository</b>
+Mid Syllabus: Focus on Ch 4 & 5 illustrations from textbook, then slides and last back of the chapter exercises.
+
+Quiz 2 Syllabus: Java Code PDF files in this repository
 
 All students of Object-Oriented Software Engineering please join this site and use it for submitting assignments, downloading lectures and course outline.
 
