@@ -11,7 +11,7 @@ Students are expected to know how to do the following:<br>
 2. Class/Object Diagram<br>
 3. Create Software Development Life Cycle documents (in the assignment 1-4 format)<br>
 <br>
-<b>
+</b>
 
 <br>Submit Assignment 2 (SRS) and 3 (Design) first draft tonight 12:00 AM 12th April. It should include: <br>
 	1. Purpose of the document
